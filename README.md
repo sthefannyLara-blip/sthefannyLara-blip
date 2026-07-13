@@ -1,16 +1,34 @@
-## Hi there 👋
+<!-- Alinhando tudo no centro para ficar elegante -->
+<div align="center">
 
-<!--
-**sthefannyLara-blip/sthefannyLara-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Seu nome e uma saudação -->
+  <h1>Olá, eu sou a Sthefanny Lara 👋</h1>
+  
+  <p>Estudante de <b>Sistemas de Informação na UFPB</b> | Apaixonada por tecnologia e desenvolvimento.</p>
 
-Here are some ideas to get you started:
+  <!-- Badges das suas redes sociais -->
+  <a href="https://www.linkedin.com/in/sthefanny-lara-silva-alexandrino-89237336b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sthefanny.silva@dcx,ufpb.br"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<hr>
+
+## 🧠 Sobre mim
+* 🎓 Graduando em **Sistemas de Informação** na Universidade Federal da Paraíba (UFPB).
+* 💻 Atualmente focada em construir uma base sólida na área de TI e aprimorar meus conhecimentos em **Java** e **Python**.
+* 🎨 Curto criar interfaces e páginas estruturadas utilizando **HTML** e **CSS**.
+
+## 🛠️ Tecnologias e Ferramentas
+<!-- Badges das tecnologias que você domina -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sthefannyLara-blip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefannyLara-blip&layout=compact&langs_count=7&theme=dracula"/>
+</div>
